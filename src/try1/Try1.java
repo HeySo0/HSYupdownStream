@@ -1,0 +1,10 @@
+package try1;
+
+public class Try1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
